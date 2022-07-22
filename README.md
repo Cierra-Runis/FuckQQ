@@ -1,4 +1,7 @@
-<div align="center"><img id="FuckQQ" width="64" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com">「 FuckQQ -  拦你妈呢死妈 QQ 管家」</div>
+<div align="center">
+  <img id="FuckQQ" width="64" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com">
+  <p>「 FuckQQ -  拦你妈呢死妈 QQ 管家」</p>
+</div>
 
 <br>
 
