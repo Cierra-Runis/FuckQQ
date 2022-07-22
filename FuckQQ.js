@@ -14,21 +14,23 @@
 // @grant           none
 // ==/UserScript==
 
+function sleep(numberMillis) {
+    var now = new Date();
+    var exitTime = now.getTime() + numberMillis;
+    while (true) {
+        now = new Date();
+        if (now.getTime() > exitTime)
+            return;
+    }
+}
+
 (function () {
     'use strict';
-    function sleep(numberMillis) {
-        var now = new Date();
-        var exitTime = now.getTime() + numberMillis;
-        while (true) {
-            now = new Date();
-            if (now.getTime() > exitTime)
-                return;
-        }
-    }
+
 
     window.location.href = document.getElementById('url').textContent;
-    sleep(1);
+    sleep(50);
     window.alert("已跳转");
-    sleep(3);
+    sleep(50);
     window.close();
 })();
