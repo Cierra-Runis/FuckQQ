@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            FuckQQ
 // @namespace       https://github.com/Cierra-Runis/FuckQQ
-// @version         0.2
+// @version         1.0
 // @description     拦你妈呢死妈 QQ 管家
 // @updateURL       https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
 // @downloadURL     https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
@@ -14,23 +14,7 @@
 // @grant           none
 // ==/UserScript==
 
-function sleep(numberMillis) {
-    var now = new Date();
-    var exitTime = now.getTime() + numberMillis;
-    while (true) {
-        now = new Date();
-        if (now.getTime() > exitTime)
-            return;
-    }
-}
-
 (function () {
     'use strict';
-
-
     window.location.href = document.getElementById('url').textContent;
-    sleep(50);
-    window.alert("已跳转");
-    sleep(50);
-    window.close();
 })();
