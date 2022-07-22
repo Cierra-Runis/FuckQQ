@@ -1,6 +1,6 @@
 
 
-<div align="center"><img id="FuckQQ" width="500" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com"></div>
+<div align="center"><img id="FuckQQ" width="64" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com"></div>
 
 <br>
 
