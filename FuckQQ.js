@@ -27,7 +27,8 @@
     }
 
     window.location.href = document.getElementById('url').textContent;
+    sleep(1);
     window.alert("已跳转");
-    sleep(3000);
+    sleep(3);
     window.close();
 })();
