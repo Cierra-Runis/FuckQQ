@@ -23,7 +23,7 @@
 
 | 正式版                                                       |
 | ------------------------------------------------------------ |
-| [安装](https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js) |
+| [安装](https://greasyfork.org/zh-CN/scripts/448283-qq) |
 
 # 开发者
 
