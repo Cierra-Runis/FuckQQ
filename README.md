@@ -4,11 +4,7 @@
 
 <br>
 
-<div align="center">
-
-「 FuckQQ -  拦你妈呢死妈 QQ 管家」
-
-</div>
+<div align="center">「 FuckQQ -  拦你妈呢死妈 QQ 管家」</div>
 
 [📚 功能](#功能)
 
