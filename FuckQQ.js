@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  拦你妈呢死妈 QQ 管家
-// @author       You
+// @author       https://github.com/Cierra-Runis
 // @match        https://c.pc.qq.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=qq.com
+// @icon         https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com
 // @grant        none
 // ==/UserScript==
 
