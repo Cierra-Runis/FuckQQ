@@ -3,8 +3,8 @@
 // @namespace       http://tampermonkey.net/
 // @version         0.1
 // @description     拦你妈呢死妈 QQ 管家
-// @updateURL       https://cdn.jsdelivr.net/gh/Cierra-Runis/FuckQQ@stable/FuckQQ.js
-// @downloadURL     https://cdn.jsdelivr.net/gh/Cierra-Runis/FuckQQ@stable/FuckQQ.js
+// @updateURL       https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
+// @downloadURL     https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
 // @licence         MIT
 // @author          https://github.com/Cierra-Runis
 // @match           https://c.pc.qq.com/*
