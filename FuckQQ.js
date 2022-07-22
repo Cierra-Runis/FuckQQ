@@ -5,6 +5,9 @@
 // @description     拦你妈呢死妈 QQ 管家
 // @updateURL       https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
 // @downloadURL     https://raw.githubusercontent.com/Cierra-Runis/FuckQQ/master/FuckQQ.js
+// @connect         raw.githubusercontent.com
+// @connect         github.com
+// @connect         cdn.jsdelivr.net
 // @licence         MIT
 // @author          https://github.com/Cierra-Runis
 // @match           https://c.pc.qq.com/*
