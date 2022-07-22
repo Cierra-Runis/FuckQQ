@@ -1,10 +1,6 @@
-
-
-<div align="center"><img id="FuckQQ" width="64" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com"></div>
+<div align="center"><img id="FuckQQ" width="64" alt="FuckQQ" src="https://github.com/Cierra-Runis/FuckQQ/blob/master/favicon.png?raw=truedomain=qq.com">「 FuckQQ -  拦你妈呢死妈 QQ 管家」</div>
 
 <br>
-
-<div align="center">「 FuckQQ -  拦你妈呢死妈 QQ 管家」</div>
 
 [📚 功能](#功能)
 
@@ -14,8 +10,8 @@
 
 自动跳跃到从电脑版 QQ 聊天消息内点击的网址，跳过脑残的电脑管家拦截
 
-
 # 安装
+
 需要浏览器装有 [Tampermonkey](https://tampermonkey.net/) 插件，下方表格中挑一个链接安装
 
 **注意事项**
@@ -33,4 +29,5 @@
 </a>
 
 # 隐私声明
+
 本脚本不会私自上传什么用户本地数据，不信就那么几行代码自己去看
